@@ -4,7 +4,7 @@ repo: bnt-uptime # The name of this repository
 
 sites:
   - name: Bingo Nova Technology
-    url: https://www.bingonova.tech
+    url: https://www.bingonova.tech.za
   - name: Cloud Cover IT
     url: https://cloudcover.co.za
   - name: Lelia Schott
