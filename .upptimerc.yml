@@ -8,7 +8,7 @@ sites:
   - name: Cloud Cover IT
     url: https://cloudcover.co.za
   - name: Lelia Schott
-    url: https://leliaschott.com
+    url: https://www.leliaschott.com
     port: 80
     check: "tcp-ping"
     ipv6: true
