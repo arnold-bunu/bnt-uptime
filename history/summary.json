@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bingonova.tech.za.ico",
     "slug": "bingo-nova-technology",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
+    "uptime": "43.32%",
+    "uptimeDay": "43.32%",
+    "uptimeWeek": "43.32%",
+    "uptimeMonth": "43.32%",
+    "uptimeYear": "43.32%",
     "time": 1174,
     "timeDay": 1174,
     "timeWeek": 1174,
     "timeMonth": 1174,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2024-10-23": 5
+      "2024-10-24": 70,
+      "2024-10-23": 629
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1865,
-    "timeDay": 1865,
-    "timeWeek": 1865,
-    "timeMonth": 1865,
-    "timeYear": 1865,
+    "time": 1994,
+    "timeDay": 1994,
+    "timeWeek": 1994,
+    "timeMonth": 1994,
+    "timeYear": 1994,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 540
+      "2024-10-24": 70,
+      "2024-10-23": 1164
     }
   }
 ]
