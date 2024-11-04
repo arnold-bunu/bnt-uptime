@@ -4,18 +4,19 @@
     "url": "https://www.bingonova.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.bingonova.tech.ico",
     "slug": "bingo-nova-technology",
-    "status": "up",
-    "uptime": "92.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "status": "down",
+    "uptime": "92.49%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "92.49%",
     "time": 726,
     "timeDay": 632,
     "timeWeek": 648,
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2024-11-04": 1,
       "2024-10-24": 721,
       "2024-10-23": 629
     }
@@ -25,7 +26,7 @@
     "url": "https://cloudcover.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/cloudcover.co.za.ico",
     "slug": "cloud-cover-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +37,9 @@
     "timeWeek": 1129,
     "timeMonth": 1215,
     "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "Lelia Schott",
@@ -55,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 72,
+      "2024-11-04": 985,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
