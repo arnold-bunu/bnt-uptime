@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bingonova.tech.ico",
     "slug": "bingo-nova-technology",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.19%",
-    "time": 686,
-    "timeDay": 775,
-    "timeWeek": 771,
-    "timeMonth": 658,
-    "timeYear": 686,
+    "uptimeYear": "97.22%",
+    "time": 688,
+    "timeDay": 754,
+    "timeWeek": 766,
+    "timeMonth": 660,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2024-11-04": 18,
       "2024-10-24": 721,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1149,
-    "timeDay": 842,
-    "timeWeek": 1039,
-    "timeMonth": 1090,
-    "timeYear": 1149,
+    "time": 1147,
+    "timeDay": 953,
+    "timeWeek": 1042,
+    "timeMonth": 1089,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2024-11-04": 18
     }
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-26": 74,
+      "2024-11-26": 462,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -94,5 +94,23 @@
       "2024-10-24": 1440,
       "2024-10-23": 1164
     }
+  },
+  {
+    "name": "N8N",
+    "url": "https://bnt-n8n.onrender.com/home/workflows",
+    "icon": "https://icons.duckduckgo.com/ip3/bnt-n8n.onrender.com.ico",
+    "slug": "n8-n",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
+    "dailyMinutesDown": {}
   }
 ]
